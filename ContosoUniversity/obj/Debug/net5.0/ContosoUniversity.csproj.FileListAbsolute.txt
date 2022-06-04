@@ -1,0 +1,486 @@
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\appsettings.json
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.exe
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.deps.json
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.json
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\staticwebassets\ContosoUniversity.StaticWebAssets.Manifest.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.input.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.output.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorCoreGenerate.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorTargetAssemblyInfo.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.Views.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\refint\ContosoUniversity.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ref\ContosoUniversity.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CopyComplete
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Humanizer.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\leonardo.paiva\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\appsettings.Development.json
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\appsettings.json
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.exe
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.deps.json
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.json
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.dev.json
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Humanizer.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfoInputs.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfo.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\scopedcss\bundle\ContosoUniversity.styles.css
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\staticwebassets\ContosoUniversity.StaticWebAssets.Manifest.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.input.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.output.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorCoreGenerate.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorTargetAssemblyInfo.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorTargetAssemblyInfo.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.Views.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CopyComplete
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\refint\ContosoUniversity.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ref\ContosoUniversity.dll
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Edit.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Create.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Delete.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Details.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Edit.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Index.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Create.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Delete.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
+G:\OneDrive - Centro Universitario de Volta Redonda RJ\Área de Trabalho\MVC5\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\appsettings.json
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.exe
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.deps.json
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.json
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ContosoUniversity.Views.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Humanizer.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\staticwebassets\ContosoUniversity.StaticWebAssets.Manifest.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.input.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.TagHelpers.output.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorCoreGenerate.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Create.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Details.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Index.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorTargetAssemblyInfo.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.RazorTargetAssemblyInfo.cs
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.Views.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.CopyComplete
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\refint\ContosoUniversity.dll
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\leost\OneDrive\Área de Trabalho\POO_III\ContosoUniversity\obj\Debug\net5.0\ref\ContosoUniversity.dll
